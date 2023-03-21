@@ -1,8 +1,8 @@
 Lead Scoring Case Study
 
 Contributors: 
-Vidhi Surana
-Shubham
+Vidhi Surana Datar
+& Shubham
 
 Batch : DS C48
 
